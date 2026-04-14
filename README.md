@@ -16,7 +16,7 @@ Modern fullbacks operate higher on the pitch, are less responsible for progressi
 
 ### Activity Zones (Heatmap)
 
-![Heatmap](images/Heat Map.png)
+![Heatmap](images/heatmap.png)
 
 The heatmaps highlight a clear positional shift. Fullbacks in 2020/21 operate significantly higher up the pitch, with increased presence in advanced areas compared to 2004/05.
 
@@ -24,7 +24,7 @@ The heatmaps highlight a clear positional shift. Fullbacks in 2020/21 operate si
 
 ### Quantitative Comparison
 
-![Table](images/Table.png)
+![Table](images/table.png)
 
 The table summarises the evolution across four dimensions: positioning, progression, creation, and build-up. It shows a consistent shift away from long-distance progression towards shorter passing and increased attacking contribution.
 
