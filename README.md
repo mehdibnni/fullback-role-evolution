@@ -12,6 +12,10 @@ Modern fullbacks operate higher on the pitch, are less responsible for progressi
 
 ---
 
+## Research Question
+
+How has the tactical role of fullbacks evolved between the early 2000s and modern football, and what does this reveal about broader structural changes in possession systems?
+
 ## Visual Analysis
 
 ### Activity Zones (Heatmap)
@@ -93,12 +97,13 @@ fullback-role-evolution/
     ├── heatmap.png
     └── table.png
 ```
+## Reproducibility
 
+To run this analysis:
+
+```bash
+pip install -r requirements.txt
+python analysis.py
+```
 ---
 
-## Future Work
-
-- Extend the analysis to additional leagues and competitions
-- Compare fullback roles across different tactical systems
-- Analyse interaction between fullbacks and midfield progression
-- Incorporate player-level and team-level comparisons
