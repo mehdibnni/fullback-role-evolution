@@ -56,12 +56,13 @@ The table summarises the evolution across four dimensions: positioning, progress
 
 ## Interpretation
 
-The results indicate a structural shift in the role of the fullback. Rather than acting as primary progressors from deep positions, modern fullbacks operate higher on the pitch and play a more complementary role within possession systems.
+The results point to a system-level reallocation of responsibilities rather than a simple positional shift.
 
-This evolution reflects broader tactical trends, including:
-- Redistribution of build-up responsibility to central players
-- Increased emphasis on positional play and short passing
-- Greater specialisation of attacking roles
+While fullbacks in the modern game operate significantly higher on the pitch, their reduced progression volume and distance indicate that they are no longer primary agents of ball advancement from deeper zones. Instead, progression is increasingly initiated through central channels, with centre-backs and midfielders assuming greater responsibility in early build-up phases.
+
+As a consequence, fullbacks are able to position themselves directly in advanced areas, where their actions are more closely linked to chance creation than to ball progression. Their increased presence in the final third, combined with a shift toward shorter passing, suggests a role focused on maintaining positional structure, supporting circulation, and facilitating final-third interactions.
+
+This evolution is consistent with broader tactical developments in elite football, particularly the rise of positional play. Within these systems, player roles are defined less by traditional positional duties and more by their function within a coordinated structure, leading to a clearer separation between progression and creation phases of play.
 
 ---
 
